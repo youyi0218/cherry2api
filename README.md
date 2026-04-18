@@ -1,1 +1,1 @@
-# cherry2api
+WORKER_TOKEN = 
